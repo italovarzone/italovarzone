@@ -2,21 +2,17 @@
 
 # Bem-Vindo!
 
-## Sou o Ítalo!
-
+## Meu nome é Ítalo!
  
 
-:computer: Sou programador back-end, curto bastante a linguagem Python!
-
-:house_with_garden: Sou do Brasil!
-
-:books: Gosto bastante de realizar cursos além da faculdade e aprender cada vez mais!
-
+:brazil: Brasileiro.
+:computer: Gosto bastante de programação, curto bastante a linguagem Python.
+:books: Curso Sistemas de Informação na faculdade FHO (Uniararas). 
+:books: Gosto bastante de realizar cursos além da faculdade e aprender cada vez mais.
 :outbox_tray: 2021 Goals: Em meu git está presente alguns exercicios realizados com Python do Curso Em Vídeo!
 
- 
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/italovarzone/CursoemVideoPython)
 
