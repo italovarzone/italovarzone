@@ -6,9 +6,13 @@
  
 
 :brazil: Brasileiro.
+
 :computer: Gosto bastante de programação, curto bastante a linguagem Python.
-:books: Curso Sistemas de Informação na faculdade FHO (Uniararas). 
+
+:books: Curso Sistemas de Informação na faculdade FHO (Uniararas).
+
 :books: Gosto bastante de realizar cursos além da faculdade e aprender cada vez mais.
+
 :outbox_tray: 2021 Goals: Em meu git está presente alguns exercicios realizados com Python do Curso Em Vídeo!
 
 
