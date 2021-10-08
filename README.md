@@ -25,7 +25,7 @@
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-:outbox_tray: 2021 Goals: Em meu git está presente alguns exercicios realizados nos cursos!
+:outbox_tray: Em meu git está presente alguns exercicios realizados nos cursos!
 
 
 ## Alguns trabalhos e meu perfil profissional: 
